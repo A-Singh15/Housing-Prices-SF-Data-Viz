@@ -1,7 +1,7 @@
 # Housing Rental Analysis for San Francisco
-Course CSC 805 
-Author: Aaron Singh
-Credits data.sfgov.org authors/engineers 
+* Course CSC 805 
+* Author: Aaron Singh
+* Credits data.sfgov.org authors/engineers 
 
 ## Data Visualization
 This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.Uses API to grab data and create visualizations.
