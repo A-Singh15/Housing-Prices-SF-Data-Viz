@@ -27,7 +27,6 @@ The analysis also includes an interactive neighborhood map that shows the averag
 * The neighborhoods with the highest gross rent are also the neighborhoods with the highest sale price per square foot. The neighborhoods with the highest gross rent are Pacific Heights, with an average gross rent of $4,118 in 2021, and Sea Cliff, with an average gross rent of $3,987 in 2021.
 
 The analysis provides valuable insights into the housing rental market in San Francisco. These insights can be used by investors, policymakers, and other stakeholders to make informed decisions about the housing market.
-[![Analysis 1 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/First%20Analysis.png)
 [![Chart 1](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%201.png)
 [![Chart 2 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%202.png)
 [![Chart 3 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%203.png)
@@ -35,7 +34,9 @@ The analysis provides valuable insights into the housing rental market in San Fr
 [![Chart 5 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%205.png)
 [![Chart 6 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%206.png)
 [![Chart 7 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%207.png)
-[![Chart 8 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%208.png)
+[![Analysis 1 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%208.png)
+[![Analysis 2 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/First%20Analysis.png)
+
 ## Files
 
 # Conclusion # 
