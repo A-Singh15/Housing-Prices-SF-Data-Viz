@@ -2,7 +2,7 @@
 
 # Data Vizulization#
 This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.  Uses API to grab data and create visualizations.
-![alt text](https://imagescdn.homes.com/i2/GhPkeBfnVUHcgKv17MYD3tsK6tLLkBIXHjJe3lA3iU8/116/golden-gate-heights-san-francisco-ca-2.jpg)
+![alt text](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/SF.jpg)
 
 # Housing Rental Analysis for San Francisco#
 
