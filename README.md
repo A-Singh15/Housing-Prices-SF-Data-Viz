@@ -1,6 +1,6 @@
 # Housing Rental Analysis for San Francisco
 
-## Data Vizulization
+## Data Visualization
 This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.Uses API to grab data and create visualizations.
 ![alt text](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/SF.jpg)
 
@@ -27,9 +27,15 @@ The analysis also includes an interactive neighborhood map that shows the averag
 * The neighborhoods with the highest gross rent are also the neighborhoods with the highest sale price per square foot. The neighborhoods with the highest gross rent are Pacific Heights, with an average gross rent of $4,118 in 2021, and Sea Cliff, with an average gross rent of $3,987 in 2021.
 
 The analysis provides valuable insights into the housing rental market in San Francisco. These insights can be used by investors, policymakers, and other stakeholders to make informed decisions about the housing market.
-[![Analysis 1 ](https://dataviz.runmercury.com/app/rental-analysis-2)
-
-
+[![Analysis 1 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/First%20Analysis.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%201.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%202.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%203.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%204.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%205.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%206.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%207.png)
+[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%208.png)
 ## Files
 
 # Conclusion # 
