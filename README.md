@@ -1,10 +1,10 @@
 # Housing Rental Analysis for San Francisco
 
-# Data Vizulization#
+## Data Vizulization
 This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.Uses API to grab data and create visualizations.
 ![alt text](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/SF.jpg)
 
-# Housing Rental Analysis for San Francisco#
+## Housing Rental Analysis for San Francisco
 
 ## Introduction
 
