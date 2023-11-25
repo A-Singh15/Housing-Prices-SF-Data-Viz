@@ -1,7 +1,7 @@
 # Housing Rental Analysis for San Francisco
 
 # Data Vizulization#
-This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.  Uses API to grab data and create visualizations.
+This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.Uses API to grab data and create visualizations.
 ![alt text](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/SF.jpg)
 
 # Housing Rental Analysis for San Francisco#
@@ -31,15 +31,6 @@ The analysis provides valuable insights into the housing rental market in San Fr
 
 
 ## Files
-
-* [Houing Rental Analysis Starter Code](san_francisco_housing.ipynb)
-
-* [`housing_per_year` CSV File](Resources/housing_per_year.csv)
-
-* [`neighborhoods_coordinates` CSV File](Resources/neighborhoods_coordinates.csv)
-
-* [`sfo_neighborhoods_census_data` CSV File](Resources/sfo_neighborhoods_census_data.csv)
-
 
 # Conclusion # 
 The trend in rental income growth has outpaced the trend in sales prices. This is likely due to the fact that the supply of rental units has not kept up with the demand. This trend is not the same for all neighborhoods across San Francisco. Some neighborhoods, such as Pacific Heights and Sea Cliff, have seen a significant increase in both rental income and sales prices. Other neighborhoods, such as Bayview and Excelsior, have seen a more modest increase in rental income and sales prices.
