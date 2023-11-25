@@ -2,7 +2,7 @@
 
 # Data Vizulization#
 This project utilizes Python visualizations packages, such as Plotly Express, HVPlot and PyPlot/Matplotlib to create an interactive dashboard exploring the 2010-2021 San Francisco housing market.  Uses API to grab data and create visualizations.
-![san_fran](https://[www.fortunebuilders.com/wp-content/uploads/2015/04/san-francisco-real-estate-market.jpg](https://vapi.costargroup.com/video/play/7y1j6x?source=42&size=1080))
+![san_fran](https://[[www.fortunebuilders.com/wp-content/uploads/2015/04/san-francisco-real-estate-market.jpg](https://vapi.costargroup.com/video/play/7y1j6x?source=42&size=1080](https://imagescdn.homes.com/i2/Z2-IofDEdP-j3pBUlRv8QTE6as10ZZplydnulv0GNd0/116/golden-gate-heights-san-francisco-ca.jpg?p=1)))
 
 # Housing Rental Analysis for San Francisco#
 
