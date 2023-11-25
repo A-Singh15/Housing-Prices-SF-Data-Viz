@@ -28,14 +28,14 @@ The analysis also includes an interactive neighborhood map that shows the averag
 
 The analysis provides valuable insights into the housing rental market in San Francisco. These insights can be used by investors, policymakers, and other stakeholders to make informed decisions about the housing market.
 [![Analysis 1 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/First%20Analysis.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%201.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%202.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%203.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%204.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%205.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%206.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%207.png)
-[![Analysis 1 ] (https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%208.png)
+[![Chart 1](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%201.png)
+[![Chart 2 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%202.png)
+[![Chart 3 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%203.png)
+[![Chart 4 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%204.png)
+[![Chart 5 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%205.png)
+[![Chart 6 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%206.png)
+[![Chart 7 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%207.png)
+[![Chart 8 ](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Images/Chart%208.png)
 ## Files
 
 # Conclusion # 
