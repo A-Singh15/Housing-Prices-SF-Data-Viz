@@ -14,7 +14,7 @@ This project utilizes Python visualizations packages, such as Plotly Express, HV
 
 * [`sfo_neighborhoods_census_data` CSV File]()
 
-## Housing Rental Analysis for San Francisco
+## Housing Rental Analysis for San Francisco Web App
 
  * https://dataviz.runmercury.com/
  * https://dataviz.runmercury.com/app/dashboard-0
