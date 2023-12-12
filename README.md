@@ -16,6 +16,7 @@ This project utilizes Python visualizations packages, such as Plotly Express, HV
 * [`neighborhoods_coordinates` CSV File](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Data/neighborhoods_coordinates.csv)
 
 * [`sfo_neighborhoods_census_data` CSV File](https://github.com/A-Singh15/Housing-Prices-SF-Data-Viz/blob/main/Data/sfo_neighborhoods_census_data.csv)
+* https://docs.google.com/presentation/d/1xsBC9tL6a0b6NZPd50ilc9VYkQBUAda3tOiwHZvf0Q0/edit#slide=id.gc6f972163_0_0 
 
 ## Housing Rental Analysis for San Francisco Web App
 
