@@ -1,5 +1,4 @@
 # Housing Rental Analysis for San Francisco
-* Course CSC 805 
 * Author: Aaron Singh
 * Credits data.sfgov.org authors/engineers 
 
